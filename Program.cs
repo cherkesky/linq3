@@ -24,6 +24,8 @@ namespace linqGroupBy
                 },
                 new Kid(){
                     FullName = "Jason Sync", Neighborhood = "North Nashville", Sales = 13.16
+                },new Kid(){
+                    FullName = "Guy Cherkesky", Neighborhood = "Brentwood", Sales = 666.66
                 },
                 new Kid(){
                     FullName = "Kyle Edwards", Neighborhood = "Nolensville", Sales = 117.10

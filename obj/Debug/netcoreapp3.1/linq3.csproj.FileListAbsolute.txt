@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/linq3/bin/Debug/netcoreapp3.1/linq3.deps.json
+/Users/cherkesky/workspace/csharp/linq3/bin/Debug/netcoreapp3.1/linq3.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/linq3/bin/Debug/netcoreapp3.1/linq3.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/linq3/bin/Debug/netcoreapp3.1/linq3.dll
+/Users/cherkesky/workspace/csharp/linq3/bin/Debug/netcoreapp3.1/linq3.pdb
+/Users/cherkesky/workspace/csharp/linq3/obj/Debug/netcoreapp3.1/linq3.csprojAssemblyReference.cache
+/Users/cherkesky/workspace/csharp/linq3/obj/Debug/netcoreapp3.1/linq3.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/linq3/obj/Debug/netcoreapp3.1/linq3.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/linq3/obj/Debug/netcoreapp3.1/linq3.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/linq3/obj/Debug/netcoreapp3.1/linq3.dll
+/Users/cherkesky/workspace/csharp/linq3/obj/Debug/netcoreapp3.1/linq3.pdb
+/Users/cherkesky/workspace/csharp/linq3/obj/Debug/netcoreapp3.1/linq3.genruntimeconfig.cache
